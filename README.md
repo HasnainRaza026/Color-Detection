@@ -1,5 +1,5 @@
 
-# Color Detector
+# Real Time Color Detection
 This Python openCV Color Detector program is developed to detect the defined colors, and display them in a bounding box
 
 ## Modules
