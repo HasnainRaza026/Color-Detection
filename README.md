@@ -34,5 +34,20 @@ import cv2
 print(cv2.__version__)
 ```
 
+### NumPy
+NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object and tools for working with these arrays. It is the fundamental package for scientific computing with Python. It is open-source software.
+
+Numpy can be installed for Mac and Linux users via the following pip command:
+```py
+pip install numpy
+```
+
+NumPy is commaonly imported as follow:
+```py
+import numpy as np
+```
+
+
+
 
 
