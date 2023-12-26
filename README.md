@@ -47,6 +47,14 @@ NumPy is commaonly imported as follow:
 import numpy as np
 ```
 
+### Pillow
+Python Pillow liberary is built on the top of PIL (Python Image Library) and is considered as the fork for the same as PIL has been discontinued from 2011. Pillow supports many image file formats including BMP, PNG, JPEG, and TIFF.
+
+To install it type the below command in the terminal:
+```py
+pip install pillow
+```
+
 
 
 
