@@ -66,7 +66,10 @@ for the calibration process use the calibration code for HSV value [here](https:
 
 https://github.com/HasnainRaza026/Real-Time-Color-Detection/assets/138324430/be3d1788-fbcf-4a2e-b02d-f4781c4ba28c
 
-
+## Resourses
++ [Murtaza's Workshop](www.youtube.com/@murtazasworkshop)
++ [Pysource](www.youtube.com/@pysource-com)
++ [Computer vision engineer](www.youtube.com/@ComputerVisionEngineer)
 
 
 
