@@ -55,6 +55,15 @@ To install it type the below command in the terminal:
 pip install pillow
 ```
 
+## Calibration
+Calibration is the major part of this project, as the visibility of the color in real time is affected by many parameters (i.e camera quality, ambient lighting).
+Hence it is important to do the calibration of HSV values first for the required colors.
+
+for the calibration process use the calibration code for HSV value [here](https://github.com/HasnainRaza026/opencv/blob/main/Chapter%207%20(Color%20Detection)/color_detection_webcam.py)
+
+
+## Demo
+
 
 
 
