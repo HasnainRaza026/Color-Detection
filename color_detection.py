@@ -28,8 +28,11 @@ while True:
     ret, frame = cap.read()
     img_HSV = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
 
-    '''Below are the measured HSV values for the defined colors,
-       change them depending on your application. visit the README file for more information'''
+    
+'''Below are the measured HSV values for the defined colors,
+    change them depending on your application. visit the README 
+    file for more information'''
+
     # Calebrated HSV values for Red
     lower_Red = np.array([164,195,169])
     upper_Red = np.array([172,226,195])
