@@ -6,7 +6,7 @@ import cv2
 import numpy as np
 from PIL import Image
 
-# Function to make a bounding box on a detected color portion
+# Function to make a bounding box on a detected color portion and put text on it
 def GetBoundingBox(boarder, color):
     global frame
     if boarder is not None:
